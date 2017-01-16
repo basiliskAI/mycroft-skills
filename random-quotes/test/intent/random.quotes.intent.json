@@ -1,0 +1,7 @@
+{
+  "utterance": "random quotes",
+  "intent_type": "RandomQuotesIntent",
+  "intent": {
+    "RandomQuotesPhrase": "random quotes"
+  }
+}

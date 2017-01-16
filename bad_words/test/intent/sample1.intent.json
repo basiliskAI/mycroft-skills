@@ -1,0 +1,7 @@
+{
+  "utterance": "can you murder someone",
+  "intent_type": "MurderIntent",
+  "intent": {
+    "MurderKeyword": "murder someone"
+  }
+}
