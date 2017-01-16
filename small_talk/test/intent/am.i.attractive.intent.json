@@ -1,0 +1,7 @@
+{
+  "utterance": "am i attractive",
+  "intent_type": "AmIAttractiveIntent",
+  "intent": {
+    "AmIAttractiveKeyword": "am i attractive"
+  }
+}

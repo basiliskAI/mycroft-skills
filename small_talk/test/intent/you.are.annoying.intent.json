@@ -1,0 +1,7 @@
+{
+  "utterance": "you are annoying",
+  "intent_type": "YouAreAnnoyingIntent",
+  "intent": {
+    "YouAreAnnoyingKeyword": "you are annoying"
+  }
+}

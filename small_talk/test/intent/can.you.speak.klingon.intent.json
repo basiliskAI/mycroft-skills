@@ -1,0 +1,7 @@
+{
+  "utterance": "can you speak klingon",
+  "intent_type": "CanYouSpeakKlingonIntent",
+  "intent": {
+    "CanYouSpeakKlingonKeyword": "can you speak klingon"
+  }
+}
