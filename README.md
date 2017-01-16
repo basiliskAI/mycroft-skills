@@ -11,7 +11,7 @@ Mycroft Skills
 Misc Folder
 ===========
 
-Inside is a 'beep-hi.wav' and 'beep-lo.wav' sound files.
+Inside are 'beep-hi.wav' and 'beep-lo.wav' sound files.
 
 1. Place them in a directory i.e. mycroft's root directory.
 2. Open 'mycroft/client/speech/mic.py'.
