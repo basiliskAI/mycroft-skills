@@ -1,0 +1,7 @@
+{
+  "utterance": "shitty",
+  "intent_type": "ProfanityIntent",
+  "intent": {
+    "ProfanityKeyword": "shitty"
+  }
+}
