@@ -2,6 +2,6 @@
   "utterance": "what do you think about cortana",
   "intent_type": "WhatDoYouThinkAboutAiIntent",
   "intent": {
-    "WhatDoYouThinkAboutAiKeyword": "cortana"
+    "WhatDoYouThinkAboutAiKeyphrase": "cortana"
   }
 }

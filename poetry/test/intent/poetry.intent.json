@@ -1,0 +1,7 @@
+{
+  "utterance": "recite a poem",
+  "intent_type": "PoetryIntent",
+  "intent": {
+    "PoetryKeyphrase": "recite a poem"
+  }
+}

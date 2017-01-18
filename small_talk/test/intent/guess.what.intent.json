@@ -2,6 +2,6 @@
   "utterance": "guess what",
   "intent_type": "GuessWhatIntent",
   "intent": {
-    "GuessWhatKeyword": "guess what"
+    "GuessWhatKeyphrase": "guess what"
   }
 }

@@ -2,6 +2,6 @@
   "utterance": "can i kiss you",
   "intent_type": "CanIKissYouIntent",
   "intent": {
-    "CanIKissYouKeyword": "can i kiss you"
+    "CanIKissYouKeyphrase": "can i kiss you"
   }
 }

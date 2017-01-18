@@ -2,6 +2,6 @@
   "utterance": "beam me up scotty",
   "intent_type": "BeamMeUpScottyIntent",
   "intent": {
-    "BeamMeUpScottyKeyword": "beam me up scotty"
+    "BeamMeUpScottyKeyphrase": "beam me up scotty"
   }
 }

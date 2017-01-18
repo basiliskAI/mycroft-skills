@@ -2,6 +2,6 @@
   "utterance": "will you date me",
   "intent_type": "WillYouDateMeIntent",
   "intent": {
-    "WillYouDateMeKeyword": "will you date me"
+    "WillYouDateMeKeyphrase": "will you date me"
   }
 }

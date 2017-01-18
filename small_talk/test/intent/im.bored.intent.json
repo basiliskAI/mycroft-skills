@@ -2,6 +2,6 @@
   "utterance": "im bored",
   "intent_type": "ImBoredIntent",
   "intent": {
-    "ImBoredKeyword": "im bored"
+    "ImBoredKeyphrase": "im bored"
   }
 }

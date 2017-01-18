@@ -2,6 +2,6 @@
   "utterance": "do you know cortana",
   "intent_type": "DoYouKnowAiIntent",
   "intent": {
-    "DoYouKnowAiKeyword": "cortana"
+    "DoYouKnowAiKeyphrase": "cortana"
   }
 }

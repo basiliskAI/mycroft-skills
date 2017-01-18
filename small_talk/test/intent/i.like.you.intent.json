@@ -2,6 +2,6 @@
   "utterance": "i like you",
   "intent_type": "ILikeYouIntent",
   "intent": {
-    "ILikeYouKeyword": "i like you"
+    "ILikeYouKeyphrase": "i like you"
   }
 }

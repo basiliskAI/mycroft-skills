@@ -2,6 +2,6 @@
   "utterance": "where do babies come from",
   "intent_type": "WhereDoBabiesComeFromIntent",
   "intent": {
-    "WhereDoBabiesComeFromKeyword": "where do babies come from"
+    "WhereDoBabiesComeFromKeyphrase": "where do babies come from"
   }
 }

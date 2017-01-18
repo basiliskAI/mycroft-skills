@@ -2,6 +2,6 @@
   "utterance": "can i change your name",
   "intent_type": "CanIChangeYourNameIntent",
   "intent": {
-    "CanIChangeYourNameKeyword": "can i change your name"
+    "CanIChangeYourNameKeyphrase": "can i change your name"
   }
 }

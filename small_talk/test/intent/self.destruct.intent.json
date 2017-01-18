@@ -2,6 +2,6 @@
   "utterance": "self destruct",
   "intent_type": "SelfDestructIntent",
   "intent": {
-    "SelfDestructKeyword": "self destruct"
+    "SelfDestructKeyphrase": "self destruct"
   }
 }

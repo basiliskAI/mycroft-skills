@@ -2,6 +2,6 @@
   "utterance": "ask me a question",
   "intent_type": "AskMeAQuestionIntent",
   "intent": {
-    "AskMeAQuestionKeyword": "ask me a question"
+    "AskMeAQuestionKeyphrase": "ask me a question"
   }
 }

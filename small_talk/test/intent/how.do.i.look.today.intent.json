@@ -2,6 +2,6 @@
   "utterance": "how do i look today",
   "intent_type": "HowDoILookTodayIntent",
   "intent": {
-    "HowDoILookTodayKeyword": "how do i look today"
+    "HowDoILookTodayKeyphrase": "how do i look today"
   }
 }
