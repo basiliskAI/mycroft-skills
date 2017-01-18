@@ -2,6 +2,6 @@
   "utterance": "im happy",
   "intent_type": "ImHappyIntent",
   "intent": {
-    "ImHappyKeyword": "im happy"
+    "ImHappyKeyphrase": "im happy"
   }
 }

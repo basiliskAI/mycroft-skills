@@ -2,6 +2,6 @@
   "utterance": "what is the answer to life",
   "intent_type": "WhatIsTheAnswerToIntent",
   "intent": {
-    "WhatIsTheAnswerToKeyword": "what is the answer to life"
+    "WhatIsTheAnswerToKeyphrase": "what is the answer to life"
   }
 }

@@ -2,6 +2,6 @@
   "utterance": "sing me a song",
   "intent_type": "SingMeASongIntent",
   "intent": {
-    "SingMeASongKeyword": "sing me a song"
+    "SingMeASongKeyphrase": "sing me a song"
   }
 }

@@ -2,6 +2,6 @@
   "utterance": "you are awesome",
   "intent_type": "YouAreAwesomeIntent",
   "intent": {
-    "YouAreAwesomeKeyword": "you are awesome"
+    "YouAreAwesomeKeyphrase": "you are awesome"
   }
 }

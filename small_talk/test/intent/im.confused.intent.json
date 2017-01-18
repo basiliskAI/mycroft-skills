@@ -2,6 +2,6 @@
   "utterance": "im confused",
   "intent_type": "ImConfusedIntent",
   "intent": {
-    "ImConfusedKeyword": "im confused"
+    "ImConfusedKeyphrase": "im confused"
   }
 }
