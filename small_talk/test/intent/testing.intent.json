@@ -2,6 +2,6 @@
   "utterance": "testing",
   "intent_type": "TestingIntent",
   "intent": {
-    "TestingKeyword": "testing"
+    "TestingKeyphrase": "testing"
   }
 }

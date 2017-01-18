@@ -2,6 +2,6 @@
   "utterance": "tell me do you bleed",
   "intent_type": "TellMeDoYouBleedIntent",
   "intent": {
-    "TellMeDoYouBleedKeyword": "tell me do you bleed"
+    "TellMeDoYouBleedKeyphrase": "tell me do you bleed"
   }
 }

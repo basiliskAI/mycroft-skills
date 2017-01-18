@@ -7,6 +7,7 @@ Mycroft Skills
 4. 'random_quotes' -> allows mycroft to speak autonomously in a random interval. Check init.py to adjust probability.
 5. 'rock_paper_scissors' -> play a game of rock, paper and scissors with mycroft.
 6. 'small_talk' -> chat with mycroft. Check vocab files for inputs. Feel free to edit and add dialogs that may add an extra feel.
+7. 'poetry' -> an enhancement of (github.com/JarbasAI/mycroft-poetry-skill) without the errors.
 
 Misc Folder
 ===========

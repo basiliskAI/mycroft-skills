@@ -2,6 +2,6 @@
   "utterance": "talk dirty",
   "intent_type": "TalkDirtyIntent",
   "intent": {
-    "TalkDirtyKeyword": "talk dirty"
+    "TalkDirtyKeyphrase": "talk dirty"
   }
 }

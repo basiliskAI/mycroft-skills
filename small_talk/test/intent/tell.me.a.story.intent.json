@@ -2,6 +2,6 @@
   "utterance": "tell me a story",
   "intent_type": "TellMeAStoryIntent",
   "intent": {
-    "TellMeAStoryKeyword": "tell me a story"
+    "TellMeAStoryKeyphrase": "tell me a story"
   }
 }

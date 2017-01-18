@@ -2,6 +2,6 @@
   "utterance": "can you dance",
   "intent_type": "CanYouDanceIntent",
   "intent": {
-    "CanYouDanceKeyword": "can you dance"
+    "CanYouDanceKeyphrase": "can you dance"
   }
 }

@@ -2,6 +2,6 @@
   "utterance": "i love you",
   "intent_type": "ILoveYouIntent",
   "intent": {
-    "ILoveYouKeyword": "i love you"
+    "ILoveYouKeyphrase": "i love you"
   }
 }

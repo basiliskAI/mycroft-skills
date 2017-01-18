@@ -2,6 +2,6 @@
   "utterance": "surprise me",
   "intent_type": "SurpriseMeIntent",
   "intent": {
-    "SurpriseMeKeyword": "surprise me"
+    "SurpriseMeKeyphrase": "surprise me"
   }
 }
